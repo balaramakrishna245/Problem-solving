@@ -1,5 +1,5 @@
 /* this code is for Life ,The Universe and Everything */
-
+/*simple c program for implementation of loops*/
 #include<stdio.h>
 int main()
 {
